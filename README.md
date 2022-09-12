@@ -1,3 +1,8 @@
+# go_api
+This is a boilerplate of api development using go lang + gin web framework.
+
+<img width="565" alt="Screen Shot 2022-09-12 at 11 53 15 AM" src="https://user-images.githubusercontent.com/49815662/189579495-e6053bb9-dc70-4b50-b153-c6423312a4f7.png">
+
 # Commands
 ```
 go mod init go_api
