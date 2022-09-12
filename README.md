@@ -17,6 +17,7 @@ go run . (or) go run main.go
 ```
 
 # Folder Structure
+```
 .
 ├── controllers                   
 ├── server                   
@@ -26,3 +27,4 @@ go run . (or) go run main.go
 ├── LICENSE                   
 ├── main.go
 └── README.md
+```
