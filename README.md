@@ -15,3 +15,14 @@ Run
 ```
 go run . (or) go run main.go
 ```
+
+# Folder Structure
+.
+├── controllers                   
+├── server                   
+├── .gitignore                   
+├── go.mod                    
+├── go.sum                   
+├── LICENSE                   
+├── main.go
+└── README.md
