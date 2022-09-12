@@ -4,6 +4,7 @@ go mod init go_api
 go mod tidy
 go get -u github.com/something/something
 ```
+More commands can found at https://go.dev/ref/mod.
 
 # Reference
 Go lang gin boilerplate
