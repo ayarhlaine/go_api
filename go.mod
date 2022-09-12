@@ -1,4 +1,4 @@
-module go_api
+module github.com/ayarhlaine/go_api
 
 go 1.16
 
